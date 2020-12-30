@@ -1,0 +1,18 @@
+h1{
+    color: darkblue;
+    background-color: lightskyblue;
+    font-size: xx-large;
+    text-align: center;
+    border: darkred 5px solid; 
+    margin: 20px;
+}
+body{
+    background-color: lightcoral;
+}
+p{
+    background-color: rgb(8, 66, 8);
+    color: greenyellow;
+    text-align: center;
+    border: lightseagreen 5px solid; 
+    margin: 20px;
+}
