@@ -1,18 +1,44 @@
+body{
+    background-color: rgb(102, 97, 97);
+}
 h1{
     color: darkblue;
-    background-color: lightskyblue;
+    background-color: skyblue;
     font-size: xx-large;
     text-align: center;
-    border: darkred 5px solid; 
+    border: blue 5px solid; 
     margin: 20px;
 }
-body{
-    background-color: lightcoral;
-}
+img{  
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    border: 8px ridge blue;  
+    height: 399px;
+    width: 300px;
+}  
 p{
     background-color: rgb(8, 66, 8);
     color: greenyellow;
     text-align: center;
     border: lightseagreen 5px solid; 
     margin: 20px;
+    padding: 10px;
+}
+h3{
+    color: darkblue;
+    background-color: lightskyblue;
+    font-size: x-large;
+    border: blue 5px; 
+    border-style: outset;
+    margin: 20px;
+    padding: 10px;
+}
+ol{
+    background-color: rgb(8, 66, 8);
+    color: greenyellow;
+    border: lightseagreen 5px; 
+    border-style: outset;
+    margin: 20px;
+    padding: 10px;
 }
